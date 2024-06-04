@@ -19,5 +19,3 @@ brew upgrade --cask
 ```bash
 consul-k8s install -f config.yaml
 ```
-
-## Configure Consul
